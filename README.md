@@ -10,7 +10,7 @@ Split was done using image_ids.
 pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 ```
 python split_coco.py -h
 ```
