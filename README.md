@@ -1,5 +1,5 @@
 # split-coco
-Python tool to split COCO*(like)* json annotation. <br/>
+Python tool to split COCO *(like)* json annotation. <br/>
 Split was done using image_ids.
 
 ## Dependencies
